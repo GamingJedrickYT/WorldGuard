@@ -1,56 +1,56 @@
 ---
 author_name: Chalapa
 gui_wg_menu_title: World Guard Menu
-gui_label_choose_option: Choose an option
-gui_btn_rg_management: Region Management
-gui_btn_help: Help
-gui_btn_manage_existing: Manage existing region
-gui_btn_create_region: Create a new region
-gui_btn_redefine_region: Redefine a region
-gui_btn_delete_region: Delete a region
-gui_creation_menu_title: Region Creation
-gui_creation_menu_label1: Let's help you create a region.
-gui_creation_menu_rg_name_box: First you will have to enter a name for your region.
-gui_creation_menu_label2: If you want your region to expand infinitely upwards and
-  downards check the following option.
-gui_creation_menu_toggle_expand: Expand vertically
-gui_creation_menu_label3: "Now hit the \xA7a'Submit'\xA7r and select 2 corners of
-  your region as you will be instructed next."
-gui_dropdown_select_redefine: Select the region you would like to redefine
-gui_dropdown_select_delete: Select the region you would like to delete
-gui_dropdown_select_manage: Select the region you would like to manage
-gui_manage_menu_title: 'Managing region:'
-gui_flag_pvp: PvP
-gui_flag_xp_drops: Experience drops
-gui_flag_invincible: Invincible
-gui_flag_fall_dmg: Fall damage
-gui_flag_usage: Use
-gui_flag_item_drop: Item drop
-gui_flag_explosions: Explosions
-gui_flag_notify_enter: Notify enter
-gui_flag_notify_leave: Notify leave
-gui_flag_potions: Allow potions
-gui_flag_allowed_enter: Allowed enter
-gui_flag_allowed_leave: Allowed leave
+gui_label_choose_option: Mga pagpipilia
+gui_btn_rg_management: Pag-ayos sa rehiyon
+gui_btn_help: Tulong
+gui_btn_manage_existing: Baguhin ang mga nasa rehiyon
+gui_btn_create_region: Gumawa ng bagong rehiyon
+gui_btn_redefine_region: ibahin ang mga nasa rehiyon
+gui_btn_delete_region: Burahin ang rehiyon
+gui_creation_menu_title: Pag-gawa ng rehiyon
+gui_creation_menu_label1: Halina't ika'y aking tulungan upang gumawa ng rehiyon.
+gui_creation_menu_rg_name_box: Una kailangan mong bigyan nang pangalan ang iyong rehiyon.
+gui_creation_menu_label2: Kung gusto mong palakihin ang iyong rehiyon mula taas hanggang pababa ng walang katapusan, 
+sundan ang mga sumusunod
+gui_creation_menu_toggle_expand: lakihan Pataas!
+gui_creation_menu_label3: "Ngayon pindutin ang \xA7a'Submit'\xA7r at pumili ngayon ng dalawang sulok at ituturo rin sa iyo ang
+mga sumusunod."
+gui_dropdown_select_redefine: Pumili ng rehiyong gusto mong baguhin
+gui_dropdown_select_delete: Pumili ng rehiyong gustong burahin
+gui_dropdown_select_manage: Pumili ng rehiyong gustong ayusin
+gui_manage_menu_title: 'Inaayos na rehiyon:'
+gui_flag_pvp: Labanan
+gui_flag_xp_drops: paghulog ng xp
+gui_flag_invincible: Hindi Nasisira
+gui_flag_fall_dmg: Damage pag bumagsak
+gui_flag_usage: Gamit nito
+gui_flag_item_drop: Pag Bagsak ng gamit
+gui_flag_explosions: Pagsabog
+gui_flag_notify_enter: Ipaalam ang pag pasok
+gui_flag_notify_leave: Ipaalam ang pag labas
+gui_flag_potions: pwede ang mahiwagang inumin
+gui_flag_allowed_enter: payag sa pagpasok
+gui_flag_allowed_leave: payag sa paglabas
 gui_flag_gm: Gamemode
-gui_gm_survival: Survival
-gui_gm_creative: Creative
-gui_flag_sleep: Allow sleeping
-gui_flag_send_chat: Allow sending chat messages
-gui_flag_rcv_chat: Allow receiving chat messages
-gui_flag_enderpearl: Allow use of ender pearls
-gui_flag_fly_mode: Fly mode
-gui_enabled: Enabled
-gui_disabled: Disabled
-gui_flag_eat: Allow eating
-gui_flag_dmg_animals: Allow damaging of animals
-gui_flag_dmg_monsters: Allow damaging of monsters
-gui_flag_leaf_decay: Allow leaf decay
-gui_flag_plant_growth: Allow plant growth
-gui_flag_spread: Allow spreading
-gui_flag_block_burn: Allow block burn
-gui_flag_priority: Region priority
-gui_help_menu_label1: 'If you need help setting up world guard check out the tutorial
-  we made for you:'
+gui_gm_survival: survival
+gui_gm_creative: creative
+gui_flag_sleep: pwedeng matulog
+gui_flag_send_chat: Pwedeng mag bigay ng mensahe
+gui_flag_rcv_chat: Pwedeng makatanggap ng mensahe
+gui_flag_enderpearl: Pag gamit ng Ender Pearls
+gui_flag_fly_mode: Paglipad
+gui_enabled: Pwede
+gui_disabled: Hindi Pwede
+gui_flag_eat: Pwedeng kumain
+gui_flag_dmg_animals: Pwedeng manakit ng hayop
+gui_flag_dmg_monsters: Pwedeng manakit ng Halimaw
+gui_flag_leaf_decay: Pwedeng ang pag lalagas ng dahon
+gui_flag_plant_growth: Pwedeng pagkabuhay ng mga halaman
+gui_flag_spread: Pwedeng pagkalat
+gui_flag_block_burn: Pwedeng pag sunog ng mga bloke
+gui_flag_priority: prayoridad ng rehiyon
+gui_help_menu_label1: 'Kung kailangan mo ng tulong tungkol sa World Guard iyong panoorin ang
+demo na aming ginawa ^-^:'
 gui_help_menu_label2: http://worldguard.ddns.net/tutorial
 ...
